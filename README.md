@@ -72,11 +72,11 @@ A zero-dependency Layer-7 HTTP load balancer in Go with lock-free atomic round-r
 **React, Node.js, Socket.io, WebRTC, MongoDB**  
 A full-stack video conferencing platform with WebRTC peer connections, Socket.IO signaling, multi-party conferencing (tested with 8 participants), in-room chat, screen sharing, and bcrypt-hashed token auth with meeting history persistence.
 
-### 🔹 [VacciTrack](https://github.com/harshhsharmaa57/VacciTrackV2)
+### 🔹 [VacciTrack](https://github.com/harshhsharmaa57/VacciTrackV2) | [Live Demo](https://vaccitrackv2-view.onrender.com/)
 **React 18, TypeScript, Node.js, Express, MongoDB, JWT**  
 A healthcare immunization tracking system with OTP-verified vaccine administration, JWT + RBAC for parent/doctor roles, and NIS-2025-compliant 4-phase scheduling with dynamic UPCOMING/PENDING/OVERDUE/COMPLETED status tracking.
 
-### 🔹 [WanderLust](https://github.com/harshhsharmaa57/Wanderlust)
+### 🔹 [WanderLust](https://github.com/harshhsharmaa57/Wanderlust) | [Live Demo](https://wanderlust-9dz6.onrender.com/)
 **Node.js, Express, MongoDB, Passport.js, Cloudinary**  
 An Airbnb-style booking platform with Passport.js session auth, Cloudinary image uploads, Joi-validated REST APIs, and MVC architecture with custom ExpressError middleware and cascade cleanup hooks.
 

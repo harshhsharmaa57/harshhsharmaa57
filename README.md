@@ -1,64 +1,141 @@
-# About Me
-Hi, I'm **Harsh Kumar Sharma**  
+&lt;h1 align="center"&gt;Hi, I'm Harsh Kumar Sharma 👋&lt;/h1&gt;
 
-B.Tech CSE (AI & ML) Student  
-Aspiring Full Stack Developer (MERN) | Java Enthusiast  
+&lt;p align="center"&gt;
+  &lt;b&gt;B.Tech CSE (AI & ML) Student&lt;/b&gt; @ ABES Engineering College&lt;br&gt;
+  &lt;b&gt;Aspiring Full Stack Developer&lt;/b&gt; | &lt;b&gt;Backend & Systems Engineer&lt;/b&gt; | &lt;b&gt;Go Enthusiast&lt;/b&gt;
+&lt;/p&gt;
 
-I enjoy building scalable and user-friendly web applications while solving real-world problems through code.  
-With hands-on experience in full stack development and backend systems, I am always exploring new technologies and improving my problem-solving skills.  
+&lt;p align="center"&gt;
+  I enjoy building scalable systems and user-friendly web applications while solving real-world problems through code.  
+  With hands-on experience in distributed systems, real-time applications, and backend engineering, I am always exploring new technologies and sharpening my problem-solving skills.
+&lt;/p&gt;
 
-I actively participate in hackathons, technical events, and collaborative projects, and I am always open to learning and contributing to meaningful work.
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/harshkumarsharma"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://x.com/harshhsharmaa57"&gt;&lt;img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:harshhsharmaa57@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+&lt;/p&gt;
 
+---
 
-# Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkumarsharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshhsharmaa57)
+## 🎓 Education
 
+**B.Tech in Computer Science & Engineering (AI/ML)**  
+ABES Engineering College, Ghaziabad, UP  
+*Dr. A.P.J. Abdul Kalam Technical University*  
+**CGPA:** 8.0/10 | **Sep 2024 – May 2028**
 
-# Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+---
 
+## 💻 Tech Stack
 
-# Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-%23007396.svg?style=for-the-badge&logo=webrtc&logoColor=white)  
+### Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006eff.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![gRPC](https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23007396.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 
+### Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+---
 
-# Tools & Technologies
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Yargs](https://img.shields.io/badge/Yargs-black?style=for-the-badge&logo=npm&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)  
+## 🚀 Featured Projects
 
+### 🔹 [Distributed Rate Limiter](https://github.com/harshhsharmaa57/gitHub-project)
+**Go, gRPC, Protobuf, Redis, PostgreSQL, Docker**  
+A high-performance distributed rate limiter using Redis sorted-set sliding windows and atomic Lua scripting. Benchmarked at ~5,600 req/s median (~7,700 req/s peak) with a PostgreSQL-backed rule engine and live quota updates via gRPC streaming.
 
-# Projects
+### 🔹 [HTTP Load Balancer](https://github.com/harshhsharmaa57/gitHub-project)
+**Go, Vegeta, Docker**  
+A zero-dependency Layer-7 HTTP load balancer in Go with lock-free atomic round-robin selection and background TCP health probing. Sustains 4,072 req/s at 99.77% success rate with automatic failover, packaged in a 5MB multi-stage Docker scratch image.
 
-### 🔹 [GitHub Project](https://github.com/harshhsharmaa57/gitHub-project)
-A full stack application that mimics core GitHub functionalities such as repositories, commits, and user interactions.
-
-### 🔹 [Meeting](https://github.com/harshhsharmaa57/Meeting)
-A real-time video/audio meeting platform built using WebRTC and Socket.io for seamless peer-to-peer communication.
-
-### 🔹 [Orbital Nexus](https://github.com/harshhsharmaa57/orbitalnexus)
-A space-themed web platform designed to explore and visualize futuristic concepts with interactive UI and dynamic data.
+### 🔹 [Meeting — Real-Time Video Platform](https://github.com/harshhsharmaa57/Meeting) | [Live Demo](https://github.com/harshhsharmaa57/Meeting)
+**React, Node.js, Socket.io, WebRTC, MongoDB**  
+A full-stack video conferencing platform with WebRTC peer connections, Socket.IO signaling, multi-party conferencing (tested with 8 participants), in-room chat, screen sharing, and bcrypt-hashed token auth with meeting history persistence.
 
 ### 🔹 [VacciTrack](https://github.com/harshhsharmaa57/VacciTrackV2)
-A healthcare tracking system that manages vaccination records, schedules, and user data efficiently.
+**React 18, TypeScript, Node.js, Express, MongoDB, JWT**  
+A healthcare immunization tracking system with OTP-verified vaccine administration, JWT + RBAC for parent/doctor roles, and NIS-2025-compliant 4-phase scheduling with dynamic UPCOMING/PENDING/OVERDUE/COMPLETED status tracking.
 
 ### 🔹 [WanderLust](https://github.com/harshhsharmaa57/Wanderlust)
-A travel booking and exploration platform with listings, user reviews, and location-based features.
+**Node.js, Express, MongoDB, Passport.js, Cloudinary**  
+An Airbnb-style booking platform with Passport.js session auth, Cloudinary image uploads, Joi-validated REST APIs, and MVC architecture with custom ExpressError middleware and cascade cleanup hooks.
 
+---
 
-# Tech Focus
-- Full MERN Stack Development  
-- REST API Design  
-- Real-time Applications (Socket.io, WebRTC)  
-- Backend Systems & Storage (MinIO)  
-- CLI Tools (Yargs)  
+## 🏆 Hackathons & Achievements
 
+- **🥉 2nd Runner-Up** — CodeMatrix: Genesis Hackathon 2025  
+  *GDG DR AITD & AITD-Events Community | Team ALGORYTHMS*
 
-# Profile Views
-![](https://komarev.com/ghpvc/?username=harshhsharmaa57&color=blue)
+---
+
+## 🤝 Volunteer Experience
+
+**Technical Coordinator** — *GeeksforGeeks Student Chapter, ABES Engineering College*  
+*Sep 2025 – Present | Kanpur, India*
+
+- Spearheaded **Stellaris**, a 12-hour MLH-listed hackathon on Devfolio with **1200+ registrations**, securing sponsorships from GitHub, RiseIn, and industry partners.
+- Organized **5+ technical workshops and coding contests** for 100+ participants.
+- Designed DSA problem sets and mentored peers on Git workflows and backend development.
+
+---
+
+## 📊 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=harshhsharmaa57&show_icons=true&theme=radical" alt="GitHub Stats" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhsharmaa57&theme=radical" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
+
+---
+
+## 📌 Tech Focus
+
+- **Distributed Systems & Backend Engineering** (Go, gRPC, Redis, PostgreSQL)
+- **Full MERN Stack Development** (React, Node.js, Express, MongoDB)
+- **Real-time Applications** (Socket.io, WebRTC)
+- **REST API Design & Microservices**
+- **DevOps & Containerization** (Docker, CI/CD)
+- **System Design & DSA**
+
+---
+
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=harshhsharmaa57&color=blue" alt="Profile Views" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;i&gt;Always open to collaborating on meaningful projects and hackathons!&lt;/i&gt; 🚀
+&lt;/p&gt;

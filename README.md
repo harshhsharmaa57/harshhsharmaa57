@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsh Kumar Sharma 👋</h1>
 <p align="center">
-  <b>B.Tech CSE (AI & ML) Student</b> @ ABES Engineering College<br>
-  <b>Aspiring Full Stack Developer</b> | <b>Backend & Systems Engineer</b> | <b>Go Enthusiast</b>
+  <b>B.Tech CSE (AI & ML) Student</b><br>
+  <b>Full Stack Developer</b> | <b>Backend & Systems Engineer</b> | <b>Go Enthusiast</b>
 </p>
 <p align="center">
   I enjoy building scalable systems and user-friendly web applications while solving real-world problems through code.<br>
@@ -12,15 +12,6 @@
   <a href="https://x.com/harshhsharmaa57"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
   <a href="mailto:harshhsharmaa57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science & Engineering (AI/ML)**  
-ABES Engineering College, Ghaziabad, UP  
-*Dr. A.P.J. Abdul Kalam Technical University*  
-**CGPA:** 8.0/10 | **Sep 2024 – May 2028**
 
 ---
 
@@ -69,15 +60,15 @@ ABES Engineering College, Ghaziabad, UP
 
 ## 🚀 Featured Projects
 
-### 🔹 [Distributed Rate Limiter](https://github.com/harshhsharmaa57/gitHub-project)
+### 🔹 [Distributed Rate Limiter](https://github.com/harshhsharmaa57/rate-limiter)
 **Go, gRPC, Protobuf, Redis, PostgreSQL, Docker**  
 A high-performance distributed rate limiter using Redis sorted-set sliding windows and atomic Lua scripting. Benchmarked at ~5,600 req/s median (~7,700 req/s peak) with a PostgreSQL-backed rule engine and live quota updates via gRPC streaming.
 
-### 🔹 [HTTP Load Balancer](https://github.com/harshhsharmaa57/gitHub-project)
+### 🔹 [HTTP Load Balancer](https://github.com/harshhsharmaa57/load-balancer)
 **Go, Vegeta, Docker**  
 A zero-dependency Layer-7 HTTP load balancer in Go with lock-free atomic round-robin selection and background TCP health probing. Sustains 4,072 req/s at 99.77% success rate with automatic failover, packaged in a 5MB multi-stage Docker scratch image.
 
-### 🔹 [Meeting — Real-Time Video Platform](https://github.com/harshhsharmaa57/Meeting) | [Live Demo](https://github.com/harshhsharmaa57/Meeting)
+### 🔹 [Meeting — Real-Time Video Platform](https://github.com/harshhsharmaa57/Meeting) | [Live Demo](meet-29j2.onrender.com)
 **React, Node.js, Socket.io, WebRTC, MongoDB**  
 A full-stack video conferencing platform with WebRTC peer connections, Socket.IO signaling, multi-party conferencing (tested with 8 participants), in-room chat, screen sharing, and bcrypt-hashed token auth with meeting history persistence.
 
@@ -91,30 +82,11 @@ An Airbnb-style booking platform with Passport.js session auth, Cloudinary image
 
 ---
 
-## 🏆 Hackathons & Achievements
-
-- **🥉 2nd Runner-Up** — CodeMatrix: Genesis Hackathon 2025  
-  *GDG DR AITD & AITD-Events Community | Team ALGORYTHMS*
-
----
-
-## 🤝 Volunteer Experience
-
-**Technical Coordinator** — *GeeksforGeeks Student Chapter, ABES Engineering College*  
-*Sep 2025 – Present | Kanpur, India*
-
-- Spearheaded **Stellaris**, a 12-hour MLH-listed hackathon on Devfolio with **1200+ registrations**, securing sponsorships from GitHub, RiseIn, and industry partners.
-- Organized **5+ technical workshops and coding contests** for 100+ participants.
-- Designed DSA problem sets and mentored peers on Git workflows and backend development.
-
----
-
-## 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=harshhsharmaa57&show_icons=true&theme=radical" alt="GitHub Stats" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhsharmaa57&theme=radical" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshhsharmaa57&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhsharmaa57&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -129,10 +101,9 @@ An Airbnb-style booking platform with Passport.js session auth, Cloudinary image
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=harshhsharmaa57&color=blue" alt="Profile Views" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;i&gt;Always open to collaborating on meaningful projects and hackathons!&lt;/i&gt; 🚀
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshhsharmaa57&color=blue" alt="Profile Views" />
+</p>
+<p align="center">
+  <i>Always open to collaborating on meaningful projects and hackathons!</i> 🚀
+</p>

@@ -1,20 +1,17 @@
-&lt;h1 align="center"&gt;Hi, I'm Harsh Kumar Sharma 👋&lt;/h1&gt;
-
-&lt;p align="center"&gt;
-  &lt;b&gt;B.Tech CSE (AI & ML) Student&lt;/b&gt; @ ABES Engineering College&lt;br&gt;
-  &lt;b&gt;Aspiring Full Stack Developer&lt;/b&gt; | &lt;b&gt;Backend & Systems Engineer&lt;/b&gt; | &lt;b&gt;Go Enthusiast&lt;/b&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  I enjoy building scalable systems and user-friendly web applications while solving real-world problems through code.  
+<h1 align="center">Hi, I'm Harsh Kumar Sharma 👋</h1>
+<p align="center">
+  <b>B.Tech CSE (AI & ML) Student</b> @ ABES Engineering College<br>
+  <b>Aspiring Full Stack Developer</b> | <b>Backend & Systems Engineer</b> | <b>Go Enthusiast</b>
+</p>
+<p align="center">
+  I enjoy building scalable systems and user-friendly web applications while solving real-world problems through code.<br>
   With hands-on experience in distributed systems, real-time applications, and backend engineering, I am always exploring new technologies and sharpening my problem-solving skills.
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/harshkumarsharma"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://x.com/harshhsharmaa57"&gt;&lt;img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:harshhsharmaa57@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/harshkumarsharma"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/harshhsharmaa57"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:harshhsharmaa57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
